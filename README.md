@@ -16,7 +16,7 @@ personal-portfolio/
 
 ## Cómo verlo
 
-- Se ve directamente en GitHub: `https://github.com/nahataen/personal-portfolio`
+- Se ve directamente en GitHub: `https://github.com/nahataen/Perfil-Portafolio`
 - No requiere servidor: no hay página HTML que ejecutar. Si se quiere previsualizar el Markdown localmente, abrir el `README.md` en VS Code o con cualquier visor Markdown.
 - GitHub Pages: no aplica (no hay `index.html`).
 
